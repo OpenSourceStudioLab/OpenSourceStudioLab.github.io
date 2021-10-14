@@ -2,7 +2,7 @@
 layout: defaults
 ---
 
-#Coming Soon
+# Coming Soon
 
 ## Open Source Studio Lab
 
