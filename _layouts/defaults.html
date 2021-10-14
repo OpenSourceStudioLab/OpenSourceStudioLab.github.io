@@ -15,12 +15,17 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title}}</a></h1>
-
-        {% if site.logo %}
+        <h1>
+           {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
+          
+          <a href="{{ "/" | absolute_url }}">{{ site.title}}</a>
+        
+        </h1>
+
+       
         <p>{{ site.description}}</p>
 
         {% if site.github.is_user_page %}
