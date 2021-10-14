@@ -16,13 +16,18 @@
   <body>
     <div class="wrapper">
       <header>
+        <div class="grid">
+  <div class="g-col-6 g-col-md-4"><img src="{{site.logo | relative_url}}" alt="Logo" /></div>
+  <div class="g-col-6 g-col-md-4">.g-col-6 .g-col-md-4</div>
+  <div class="g-col-6 g-col-md-4"><a href="{{ "/" | absolute_url }}">{{ site.title}}</a></div>
+</div>
         <h1>
            {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
+          
         {% endif %}
 
           
-          <a href="{{ "/" | absolute_url }}">{{ site.title}}</a>
+          
         
         </h1>
 
