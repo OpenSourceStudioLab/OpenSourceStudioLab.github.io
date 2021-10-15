@@ -1,6 +1,7 @@
 ---
 
 layout: defaults
+tile: Home
 
 ---
 
