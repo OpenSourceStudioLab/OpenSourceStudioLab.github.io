@@ -1,5 +1,5 @@
 ---
-layout: header
+layout: default
 ---
 
 ### Creating Nex-Gen
