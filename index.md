@@ -4,9 +4,9 @@ layout: defaults
 
 # Coming Soon
 
-### Create Master Open Source Sofware Engineers
+#### Creating Master Open Source Sofware Engineers
 
-#### The _next_ Open Global Citizen community ambassadors. 
+##### The _next_ Open Global Citizen community ambassadors. 
 
 100% Open-Source Research & Development Commercial Lab
 
