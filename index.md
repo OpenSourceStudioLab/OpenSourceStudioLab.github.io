@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: defaults
 ---
 
 ### Creating Nex-Gen
@@ -11,9 +11,3 @@ layout: default
 100% Open-Source Research & Development Commercial Lab
 
 > We plan to launch soon. Sign up to be notified!
-
-
-
-
-
-
