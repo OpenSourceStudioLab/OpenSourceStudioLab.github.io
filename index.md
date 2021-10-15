@@ -1,5 +1,7 @@
 ---
+
 layout: defaults
+
 ---
 
 # Creating Next Generation
