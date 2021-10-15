@@ -1,6 +1,4 @@
----
-layout: defaults
----
+
 
 ### Creating Nex-Gen
 
