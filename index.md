@@ -2,7 +2,7 @@
 layout: header
 ---
 
-### Creating Nex-Gen 2021
+### Creating Nex-Gen
 
 ##### Master Open Source Sofware Engineers
 
