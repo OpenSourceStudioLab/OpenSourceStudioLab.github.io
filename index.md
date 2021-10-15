@@ -1,5 +1,6 @@
 ---
 layout: defaults
+thing: apple
 ---
 
 ### Creating Next Generation
