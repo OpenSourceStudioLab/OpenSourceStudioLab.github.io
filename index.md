@@ -2,7 +2,7 @@
 layout: defaults
 ---
 
-### Creating Nex-Generation
+### Creating Next Generation
 
 ##### Master Open Source Sofware Engineers
 
