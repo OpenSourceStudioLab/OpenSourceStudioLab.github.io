@@ -2,8 +2,6 @@
 layout: defaults
 ---
 
-# Coming Soon
-
 ### Creating 
 
 ##### Master Open Source Sofware Engineers
@@ -12,7 +10,7 @@ layout: defaults
 
 100% Open-Source Research & Development Commercial Lab
 
-> We plan to launch early next week. Sign up to be notified!
+> We plan to launch soon. Sign up to be notified!
 
 
 
