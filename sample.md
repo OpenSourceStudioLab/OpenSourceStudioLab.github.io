@@ -1,3 +1,7 @@
+---
+layout: defaults
+---
+
 #Testing
  
 - One 
