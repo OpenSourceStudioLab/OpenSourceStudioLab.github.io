@@ -9,7 +9,7 @@ layout: defaults
 ## Master Open Source Sofware Engineers
 
 ### The _modern_ Open Global Citizen community ambassadors. 
-
+![Linux Foundation Job Report Image](assests\img\LandingPage-001.gif)
 100% Commercial Open-Source Research & Development Lab
 
-We plan to launch soon. Sign up to be notified!
+Launching soon. Sign up to be notified!
